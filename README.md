@@ -1,2 +1,2 @@
 # AzureCI-ARM-Pipeline
-Continuous integration of ARM templates with Azure Pipelines
+Demo on Continuous integration of ARM templates with Azure Pipelines
